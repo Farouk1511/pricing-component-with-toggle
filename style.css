@@ -20,6 +20,7 @@ body {
 
 button {
   cursor: pointer;
+  font-weight: 700;
 }
 
 button:focus {
