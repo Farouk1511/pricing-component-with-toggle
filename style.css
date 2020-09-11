@@ -18,12 +18,12 @@ body {
   background-color: hsl(240, 78%, 98%);
 }
 
-button{
-    cursor: pointer;
+button {
+  cursor: pointer;
 }
 
-button:focus{
-    outline:none;
+button:focus {
+  outline: none;
 }
 
 .container {
